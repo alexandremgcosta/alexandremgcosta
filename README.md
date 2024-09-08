@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Computer Engineering student at the University of Évora
 
 
