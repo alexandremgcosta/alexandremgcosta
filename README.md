@@ -1,5 +1,5 @@
 # About Me:
-I am a Computer Engineering student at the University of Évora
+I'm graduated in Computer Science and Engineering at the University of Évora.
 
 
 ## 🌐 Socials:
